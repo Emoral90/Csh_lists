@@ -68,9 +68,7 @@ Console.WriteLine($"Sum of numbers: {sum}");
 
 // Find the avgerage/mean
 float mean = 0;
-foreach (float num in nums){
-    mean = (num + sum) / nums.Count;
-}
+mean = ((float)sum) / nums.Count;
 Console.WriteLine($"Average of numbers: {mean}");
 
 // Find the min and max
