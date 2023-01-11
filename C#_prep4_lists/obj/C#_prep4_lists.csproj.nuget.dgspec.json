@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lengu\\Desktop\\School\\CSE 210 Programming with classes (c#)\\C#_prep4_lists\\C#_prep4_lists.csproj": {}
+    "C:\\Users\\lengu\\Desktop\\School\\CSE 210 Programming with classes (c#)\\Csh_lists\\C#_prep4_lists\\C#_prep4_lists.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lengu\\Desktop\\School\\CSE 210 Programming with classes (c#)\\C#_prep4_lists\\C#_prep4_lists.csproj": {
+    "C:\\Users\\lengu\\Desktop\\School\\CSE 210 Programming with classes (c#)\\Csh_lists\\C#_prep4_lists\\C#_prep4_lists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lengu\\Desktop\\School\\CSE 210 Programming with classes (c#)\\C#_prep4_lists\\C#_prep4_lists.csproj",
+        "projectUniqueName": "C:\\Users\\lengu\\Desktop\\School\\CSE 210 Programming with classes (c#)\\Csh_lists\\C#_prep4_lists\\C#_prep4_lists.csproj",
         "projectName": "C#_prep4_lists",
-        "projectPath": "C:\\Users\\lengu\\Desktop\\School\\CSE 210 Programming with classes (c#)\\C#_prep4_lists\\C#_prep4_lists.csproj",
+        "projectPath": "C:\\Users\\lengu\\Desktop\\School\\CSE 210 Programming with classes (c#)\\Csh_lists\\C#_prep4_lists\\C#_prep4_lists.csproj",
         "packagesPath": "C:\\Users\\lengu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lengu\\Desktop\\School\\CSE 210 Programming with classes (c#)\\C#_prep4_lists\\obj\\",
+        "outputPath": "C:\\Users\\lengu\\Desktop\\School\\CSE 210 Programming with classes (c#)\\Csh_lists\\C#_prep4_lists\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lengu\\AppData\\Roaming\\NuGet\\NuGet.Config"
