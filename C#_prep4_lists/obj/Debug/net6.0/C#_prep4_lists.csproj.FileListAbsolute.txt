@@ -1,0 +1,15 @@
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\C#_prep4_lists\bin\Debug\net6.0\C#_prep4_lists.exe
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\C#_prep4_lists\bin\Debug\net6.0\C#_prep4_lists.deps.json
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\C#_prep4_lists\bin\Debug\net6.0\C#_prep4_lists.runtimeconfig.json
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\C#_prep4_lists\bin\Debug\net6.0\C#_prep4_lists.dll
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\C#_prep4_lists\bin\Debug\net6.0\ref\C#_prep4_lists.dll
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\C#_prep4_lists\bin\Debug\net6.0\C#_prep4_lists.pdb
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\C#_prep4_lists\obj\Debug\net6.0\C#_prep4_lists.csproj.AssemblyReference.cache
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\C#_prep4_lists\obj\Debug\net6.0\C#_prep4_lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\C#_prep4_lists\obj\Debug\net6.0\C#_prep4_lists.AssemblyInfoInputs.cache
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\C#_prep4_lists\obj\Debug\net6.0\C#_prep4_lists.AssemblyInfo.cs
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\C#_prep4_lists\obj\Debug\net6.0\C#_prep4_lists.csproj.CoreCompileInputs.cache
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\C#_prep4_lists\obj\Debug\net6.0\C#_prep4_lists.dll
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\C#_prep4_lists\obj\Debug\net6.0\ref\C#_prep4_lists.dll
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\C#_prep4_lists\obj\Debug\net6.0\C#_prep4_lists.pdb
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\C#_prep4_lists\obj\Debug\net6.0\C#_prep4_lists.genruntimeconfig.cache
